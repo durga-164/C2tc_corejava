@@ -1,5 +1,6 @@
 
 //task 2
+
 /*Define a class Circle with the following data members: (i) Radius (ii) Colour
 Create these member methods for this class: (i) getInput() that accepts the details of the circle  (ii) calcArea that calculates the area of the circle using the radius and displays the same.
 */
@@ -29,6 +30,7 @@ import java.util.Scanner;
 	        System.out.println("Area of the circle: " + area);
 	        System.out.println("Colour of the circle: " + colour);
 	    }
+	    
 	}
 
 	
