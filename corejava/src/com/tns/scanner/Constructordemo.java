@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Constructordemo {
  public static void main(String[]args)
  {
-	 Scanner sc= new Scanner(System.in);
+	 Scanner sc= new Scanner(System.in);3
+	 
 			 String name,city;
 	int id;
 	  System.out.println("enter customer id");
