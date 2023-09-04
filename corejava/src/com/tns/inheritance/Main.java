@@ -9,5 +9,6 @@ public static void main(String[]args)
    obj.lion();//Wildanimal class method is called
    obj.wolf();//Wildanimal class method is called
    obj.lionandcub();//Lion class method is called
+  
 }
 }
