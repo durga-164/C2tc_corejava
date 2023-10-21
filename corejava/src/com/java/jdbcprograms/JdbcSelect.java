@@ -1,5 +1,6 @@
 package com.java.jdbcprograms;
 import java.sql.*;
+
 import javax.sql.*;//step 1 is importing the packages
 
 public class JdbcSelect {
